@@ -27,7 +27,7 @@ rpc.exports = {
 	init: function(stage, options) {
 		cache.options = options || {};
 		cache.base = Process.findModuleByName('libbadlandbrawl.so').base;
-		cache.options.redirectHost = "game.stage.rumblestars.com";
+		cache.options.redirectHost = "127.0.0.1";
 		
 		setup();
 		//Interceptor.detachAll();
