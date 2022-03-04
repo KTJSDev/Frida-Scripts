@@ -1,2 +1,2 @@
 # Frida-Scripts
-Collection of Frida Scripts
+Collection of Frida Scripts for Titan games
